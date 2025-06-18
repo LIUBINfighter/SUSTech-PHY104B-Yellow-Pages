@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,ae as o}from"./chunks/framework.BtEkjhVd.js";const h=JSON.parse('{"title":"数据分析程序","description":"","frontmatter":{},"headers":[],"relativePath":"programs.md","filePath":"programs.md"}'),s={name:"programs.md"};function n(i,a,l,p,_,d){return t(),r("div",null,a[0]||(a[0]=[o("",6)]))}const m=e(s,[["render",n]]);export{h as __pageData,m as default};
