@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as r,ae as i}from"./chunks/framework.BtEkjhVd.js";const p=JSON.parse('{"title":"设计思路","description":"","frontmatter":{},"headers":[],"relativePath":"site-design.md","filePath":"site-design.md"}'),s={name:"site-design.md"};function o(n,e,d,l,_,c){return r(),t("div",null,e[0]||(e[0]=[i("",6)]))}const m=a(s,[["render",o]]);export{p as __pageData,m as default};

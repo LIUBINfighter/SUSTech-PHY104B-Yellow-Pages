@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ae as o}from"./chunks/framework.BtEkjhVd.js";const p=JSON.parse('{"title":"资源导航","description":"","frontmatter":{},"headers":[],"relativePath":"resources.md","filePath":"resources.md"}'),s={name:"resources.md"};function n(i,a,c,l,d,h){return t(),r("div",null,a[0]||(a[0]=[o("",8)]))}const u=e(s,[["render",n]]);export{p as __pageData,u as default};
